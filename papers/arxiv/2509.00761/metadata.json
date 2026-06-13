@@ -1,0 +1,14 @@
+{
+  "id": "2509.00761",
+  "title": "L-MARS: Legal Multi-Agent Workflow with Orchestrated Reasoning and Agentic Search",
+  "summary": "We present L-MARS (Legal Multi-Agent Workflow with Orchestrated Reasoning and Agentic Search), a multi-agent retrieval framework for grounded legal question answering that decomposes queries into structured sub-problems, retrieves evidence via agentic web search, filters results through a verification agent, and synthesizes cited answers. Existing legal QA benchmarks test either closed-book reasoning or retrieval over fixed corpora, but neither captures scenarios requiring current legal information. We introduce LegalSearchQA, a 50-question benchmark across five legal domains whose answers depend on recent developments that post-date model training data. L-MARS achieves 96.0% accuracy on LegalSearchQA, a 38.0% improvement over zero-shot performance (58.0%), while chain-of-thought prompting degrades performance to 30.0%. On Bar Exam QA (Zheng et al., 2025), a reasoning-focused benchmark of 594 bar examination questions, retrieval provides negligible gains (+0.7 percentage points), consistent with prior findings. These results show that agentic retrieval dramatically improves legal QA when tasks require up-to-date factual knowledge, but the benefit is benchmark-dependent, underscoring the need for retrieval-focused evaluation. Code and data are available at: https://github.com/boqiny/L-MARS",
+  "authors": [
+    "Ziqi Wang",
+    "Boqin Yuan"
+  ],
+  "published": "2025-08-31T09:23:26Z",
+  "updated": "2026-06-13T06:27:02Z",
+  "license": null,
+  "sourceUrl": "https://arxiv.org/abs/2509.00761",
+  "canRedistribute": null
+}

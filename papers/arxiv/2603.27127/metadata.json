@@ -1,0 +1,18 @@
+{
+  "id": "2603.27127",
+  "title": "Red-MIRROR: Agentic LLM-based Autonomous Penetration Testing with Reflective Verification and Knowledge-augmented Interaction",
+  "summary": "Web applications remain the dominant attack surface in cybersecurity, where vulnerabilities such as SQL injection, XSS, and business logic flaws continue to cause significant data breaches. While penetration testing is effective for identifying these weaknesses, traditional manual approaches are time-consuming and heavily dependent on scarce expert knowledge. Recent Large Language Models (LLM)-based multi-agent systems have shown promise in automating penetration testing, yet they still suffer from critical limitations: over-reliance on parametric knowledge, fragmented session memory, and insufficient validation of attack payloads and responses. This paper proposes Red-MIRROR, a novel multi-agent automated penetration testing system that introduces a tightly coupled memory-reflection backbone to explicitly govern inter-agent reasoning. By synthesizing Retrieval-Augmented Generation (RAG) for external knowledge augmentation, a Shared Recurrent Memory Mechanism (SRMM) for persistent state management, and a Dual-Phase Reflection mechanism for adaptive validation, Red-MIRROR provides a robust solution for complex web exploitation. Empirical evaluation on the XBOW benchmark and Vulhub CVEs shows that Red-MIRROR achieves performance comparable to state-of-the-art agents on Vulhub scenarios, while demonstrating a clear advantage on the XBOW benchmark. On the XBOW benchmark, Red-MIRROR attains an overall success rate of 86.0 percent, outperforming PentestAgent (50.0 percent), AutoPT (46.0 percent), and the VulnBot baseline (6.0 percent). Furthermore, the system achieves a 93.99 percent subtask completion rate, indicating strong long-horizon reasoning and payload refinement capability. Finally, we discuss ethical implications and propose safeguards to mitigate misuse risks.",
+  "authors": [
+    "Tran Vy Khang",
+    "Nguyen Dang Nguyen Khang",
+    "Nghi Hoang Khoa",
+    "Do Thi Thu Hien",
+    "Van-Hau Pham",
+    "Phan The Duy"
+  ],
+  "published": "2026-03-28T04:34:09Z",
+  "updated": "2026-06-13T06:27:06Z",
+  "license": null,
+  "sourceUrl": "https://arxiv.org/abs/2603.27127",
+  "canRedistribute": null
+}

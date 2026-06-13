@@ -1,0 +1,22 @@
+{
+  "id": "2603.00676",
+  "title": "K^2-Agent: Co-Evolving Know-What and Know-How for Hierarchical Mobile Device Control",
+  "summary": "Existing mobile device control agents often perform poorly when solving complex tasks requiring long-horizon planning and precise operations, typically due to a lack of relevant task experience or unfamiliarity with skill execution. We propose K2-Agent, a hierarchical framework that models human-like cognition by separating and co-evolving declarative (knowing what) and procedural (knowing how) knowledge for planning and execution. K2-Agent's high level reasoner is bootstrapped from a single demonstration per task and runs a Summarize-Reflect-Locate-Revise (SRLR) loop to distill and iteratively refine task-level declarative knowledge through self-evolution. The low-level executor is trained with our curriculum-guided Group Relative Policy Optimization (C-GRPO), which (i) constructs a balanced sample pool using decoupled reward signals and (ii) employs dynamic demonstration injection to guide the model in autonomously generating successful trajectories for training. On the challenging AndroidWorld benchmark, K2-Agent achieves a 76.1% success rate using only raw screenshots and open-source backbones. Furthermore, K2-Agent shows powerful dual generalization: its high-level declarative knowledge transfers across diverse base models, while its low-level procedural skills achieve competitive performance on unseen tasks in ScreenSpot-v2 and Android-in-the-Wild (AitW).",
+  "authors": [
+    "Zhe Wu",
+    "Donglin Mo",
+    "Hongjin Lu",
+    "Junliang Xing",
+    "Jianheng Liu",
+    "Yuheng Jing",
+    "Kai Li",
+    "Kun Shao",
+    "Jianye Hao",
+    "Yuanchun Shi"
+  ],
+  "published": "2026-02-28T14:33:14Z",
+  "updated": "2026-06-13T06:27:04Z",
+  "license": null,
+  "sourceUrl": "https://arxiv.org/abs/2603.00676",
+  "canRedistribute": null
+}

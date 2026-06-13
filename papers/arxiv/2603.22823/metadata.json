@@ -1,0 +1,13 @@
+{
+  "id": "2603.22823",
+  "title": "Empirical Comparison of Agent Communication Protocols for Task Orchestration",
+  "summary": "Context. The problem of comparative evaluation of communication protocols for task orchestration by large language model (LLM) agents is considered. The object of study is the process of interaction between LLM agents and external tools, as well as between autonomous LLM agents, during task orchestration. Objective. The goal of this work is to develop a systematic pilot benchmark comparing tool integration, multi-agent dele-gation, and hybrid architectures for standardized queries at three levels of complexity, and to quantify the advantages and disadvantages in terms of response time, context window consumption, cost, error recovery, and implementation complexity.",
+  "authors": [
+    "Ivan Dobrovolskyi"
+  ],
+  "published": "2026-03-24T05:50:58Z",
+  "updated": "2026-06-13T06:27:04Z",
+  "license": null,
+  "sourceUrl": "https://arxiv.org/abs/2603.22823",
+  "canRedistribute": null
+}

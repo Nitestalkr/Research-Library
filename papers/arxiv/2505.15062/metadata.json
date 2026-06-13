@@ -1,0 +1,18 @@
+{
+  "id": "2505.15062",
+  "title": "SAKE: Structured Agentic Knowledge Extrapolation for Complex LLM Reasoning via Reinforcement Learning",
+  "summary": "Knowledge extrapolation is the process of inferring novel information by combining and extending existing knowledge that is explicitly available. It is essential for solving complex questions in specialized domains where retrieving comprehensive external knowledge is impractical. We propose SAKE (Structured Agentic Knowledge Extrapolation), a RL powered agentic framework that trains LLMs to autonomously retrieve and extrapolate structured knowledge through tool-augmented reinforcement learning. SAKE defines two external KG tools: entity group construction and cross-group triplet retrieval. The model learns to interleave these 2 retrieval tools during a three-turn rollout: extracting key entities, filtering relevant concept groups, and associative reasoning by constructing new triplets through analogy. The entire pipeline is optimized end-to-end with GRPO using a curriculum reward, teaching the model what to retrieve and how to reason over it. Our experiments proved that SAKE fine-tuned Qwen2.5-7B model surpasses GPT-3.5-Turbo with state-of-the-art agentic KG reasoning on both biomedical (75.4% vs. 70.1%) and commonsense (81.3% vs. 74.7%) benchmarks, while reducing token usage by over 90%. These results demonstrate that associative reasoning over incomplete structured knowledge does not requiring large models with complex, multi-step prompting, thus can be learned end-to-end by small, open-weight models through reinforcement learning with the right tools and training signal. Our code is available at https://anonymous.4open.science/r/SAKE-7585.",
+  "authors": [
+    "Jiashu He",
+    "Jinxuan Fan",
+    "Bowen Jiang",
+    "Ignacio Houine",
+    "Dan Roth",
+    "Alejandro Ribeiro"
+  ],
+  "published": "2025-05-21T03:30:55Z",
+  "updated": "2026-06-13T06:26:22Z",
+  "license": null,
+  "sourceUrl": "https://arxiv.org/abs/2505.15062",
+  "canRedistribute": null
+}

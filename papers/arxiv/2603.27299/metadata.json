@@ -1,0 +1,16 @@
+{
+  "id": "2603.27299",
+  "title": "From Inference Routing to Agent Orchestration: Declarative Policy Compilation with Cross-Layer Verification",
+  "summary": "The Semantic Router DSL is a non-Turing-complete policy language deployed in production for per-request LLM inference routing: content signals (embedding similarity, PII detection, jailbreak scoring) feed into weighted projections and priority-ordered decision trees that select a model, enforce privacy policies, and produce structured audit traces -- all from a single declarative source file. Prior work established conflict-free compilation for probabilistic predicates and positioned the DSL within the Workload-Router-Pool inference architecture. This paper extends the same language from stateless, per-request routing to multi-step agent workflows -- the full path from inference gateway to agent orchestration to infrastructure deployment. The DSL compiler emits verified decision nodes for orchestration frameworks (LangGraph, OpenClaw), Kubernetes artifacts (NetworkPolicy, Sandbox CRD, ConfigMap), YANG/NETCONF payloads, and protocol-boundary gates (MCP, A2A) -- all from the same source. Because the language is non-Turing-complete, the compiler guarantees exhaustive routing, conflict-free branching, referential integrity, and audit traces structurally coupled to the decision logic. Because signal definitions are shared across targets, a threshold change propagates from inference gateway to agent gate to infrastructure artifact in one compilation step -- eliminating cross-team coordination as the primary source of policy drift. We ground the approach in four pillars -- auditability, cost efficiency, verifiability, and tunability -- and identify the verification boundary at each layer.",
+  "authors": [
+    "Huamin Chen",
+    "Xunzhuo Liu",
+    "Bowei He",
+    "Xue Liu"
+  ],
+  "published": "2026-03-28T15:04:31Z",
+  "updated": "2026-06-13T06:27:06Z",
+  "license": null,
+  "sourceUrl": "https://arxiv.org/abs/2603.27299",
+  "canRedistribute": null
+}

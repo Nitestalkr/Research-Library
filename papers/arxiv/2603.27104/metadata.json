@@ -1,0 +1,18 @@
+{
+  "id": "2603.27104",
+  "title": "Autonomous Agent-Orchestrated Digital Twins (AADT): Leveraging the OpenClaw Framework for State Synchronization in Rare Genetic Disorders",
+  "summary": "Background: Medical Digital Twins (MDTs) are computational representations of individual patients that integrate clinical, genomic, and physiological data to support diagnosis, treatment planning, and outcome prediction. However, most MDTs remain static or passively updated, creating a critical synchronization gap, especially in rare genetic disorders where phenotypes, genomic interpretations, and care guidelines evolve over time. Methods: We propose an agent-orchestrated digital twin framework using OpenClaw's proactive \"heartbeat\" mechanism and modular Agent Skills. This Autonomous Agent-orchestrated Digital Twin (AADT) system continuously monitors local and external data streams (e.g., patient-reported phenotypes and updates in variant classification databases) and executes automated workflows for data ingestion, normalization, state updates, and trigger-based analysis. Results: A prototype implementation demonstrates that agent orchestration can continuously synchronize MDT states with both longitudinal phenotype updates and evolving genomic knowledge. In rare disease settings, this enables earlier diagnosis and more accurate modeling of disease progression. We present two case studies, including variant reinterpretation and longitudinal phenotype tracking, highlighting how AADTs support timely, auditable updates for both research and clinical care. Conclusion: The AADT framework addresses the key bottleneck of real-time synchronization in MDTs, enabling scalable and continuously updated patient models. We also discuss data security considerations and mitigation strategies through human-in-the-loop system design.",
+  "authors": [
+    "Hongzhuo Chen",
+    "Zhanliang Wang",
+    "Quan M. Nguyen",
+    "Gongbo Zhang",
+    "Chunhua Weng",
+    "Kai Wang"
+  ],
+  "published": "2026-03-28T03:18:21Z",
+  "updated": "2026-06-13T06:27:05Z",
+  "license": null,
+  "sourceUrl": "https://arxiv.org/abs/2603.27104",
+  "canRedistribute": null
+}

@@ -1,0 +1,13 @@
+{
+  "id": "2603.26718",
+  "title": "Toward Evaluation Frameworks for Multi-Agent Scientific AI Systems",
+  "summary": "We analyze the challenges of benchmarking scientific (multi)-agentic systems, including the difficulty of distinguishing reasoning from retrieval, the risks of data/model contamination, the lack of reliable ground truth for novel research problems, the complications introduced by tool use, and the replication challenges due to the continuously changing/updating knowledge base. We discuss strategies for constructing contamination-resistant problems, generating scalable families of tasks, and the need for evaluating systems through multi-turn interactions that better reflect real scientific practice. As an early feasibility test, we demonstrate how to construct a dataset of novel research ideas to test the out-of-sample performance of our system. We also discuss the results of interviews with several researchers and engineers working in quantum science. Through those interviews, we examine how scientists expect to interact with AI systems and how these expectations should shape evaluation methods.",
+  "authors": [
+    "Marcin Abram"
+  ],
+  "published": "2026-03-18T16:05:52Z",
+  "updated": "2026-06-13T06:27:05Z",
+  "license": null,
+  "sourceUrl": "https://arxiv.org/abs/2603.26718",
+  "canRedistribute": null
+}

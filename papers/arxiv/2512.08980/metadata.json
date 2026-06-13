@@ -1,0 +1,22 @@
+{
+  "id": "2512.08980",
+  "title": "Training Multi-Image Vision Agents via End2End Reinforcement Learning",
+  "summary": "Recent VLM-based agents aim to replicate OpenAI O3's \"thinking with images\" via tool use, yet most open-source methods restrict inputs to a single image, limiting their applicability to real-world multi-image QA tasks. To address this gap, we propose IMAgent, an open-source visual agent trained with end-to-end reinforcement learning for fine-grained single/multi-image reasoning. During inference, VLMs tend to gradually neglect visual inputs; to mitigate this issue, we design two dedicated tools for visual reflection and verification, enabling the model to actively refocus attention on image content. Beyond that, we, for the first time, reveal how tool usage enhances agent performance from an attention perspective. Equipped with a carefully designed two-layer motion trajectory masking strategy and tool-use reward gain, IMAgent acquires an effective tool-use paradigm through pure reinforcement learning, eliminating the need for costly supervised fine-tuning data. To further unleash the inherent tool-usage potential of the base VLM and fill data gaps, we construct a challenging, visually enriched multi-image QA dataset via multi-agent system. Extensive experiments validate that IMAgent achieves SOTA performance across mainstream single and multi-image benchmarks, and our in-depth analysis offers actionable insights for the community. Code and data will be released soon.",
+  "authors": [
+    "Chengqi Dong",
+    "Chuhuai Yue",
+    "Hang He",
+    "Rongge Mao",
+    "Fenghe Tang",
+    "S Kevin Zhou",
+    "Zekun Xu",
+    "Xiaohan Wang",
+    "Jiajun Chai",
+    "Guojun Yin"
+  ],
+  "published": "2025-12-05T10:02:38Z",
+  "updated": "2026-06-13T06:27:03Z",
+  "license": null,
+  "sourceUrl": "https://arxiv.org/abs/2512.08980",
+  "canRedistribute": null
+}

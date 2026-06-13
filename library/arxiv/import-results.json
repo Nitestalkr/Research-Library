@@ -1,0 +1,505 @@
+{
+  "generatedAt": "2026-06-13T06:27:20.810Z",
+  "results": [
+    {
+      "id": "2406.07496",
+      "title": "TextGrad: Automatic \"Differentiation\" via Text",
+      "license": null,
+      "canRedistribute": null
+    },
+    {
+      "id": "2501.09136",
+      "title": "Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG",
+      "license": null,
+      "canRedistribute": null
+    },
+    {
+      "id": "2505.15062",
+      "title": "SAKE: Structured Agentic Knowledge Extrapolation for Complex LLM Reasoning via Reinforcement Learning",
+      "license": null,
+      "canRedistribute": null
+    },
+    {
+      "id": "2507.21046",
+      "title": "A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence",
+      "license": null,
+      "canRedistribute": null
+    },
+    {
+      "id": "2508.07407",
+      "title": "A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems",
+      "license": null,
+      "canRedistribute": null
+    },
+    {
+      "id": "2509.00761",
+      "title": "L-MARS: Legal Multi-Agent Workflow with Orchestrated Reasoning and Agentic Search",
+      "license": null,
+      "canRedistribute": null
+    },
+    {
+      "id": "2510.05592",
+      "title": "In-the-Flow Agentic System Optimization for Effective Planning and Tool Use",
+      "license": null,
+      "canRedistribute": null
+    },
+    {
+      "id": "2512.08980",
+      "title": "Training Multi-Image Vision Agents via End2End Reinforcement Learning",
+      "license": null,
+      "canRedistribute": null
+    },
+    {
+      "id": "2601.13508",
+      "title": "Autonomous computational catalysis through an agentic research system",
+      "license": null,
+      "canRedistribute": null
+    },
+    {
+      "id": "2602.14364",
+      "title": "A Trajectory-Based Safety Audit of Clawdbot (OpenClaw)",
+      "license": null,
+      "canRedistribute": null
+    },
+    {
+      "id": "2603.00676",
+      "title": "K^2-Agent: Co-Evolving Know-What and Know-How for Hierarchical Mobile Device Control",
+      "license": null,
+      "canRedistribute": null
+    },
+    {
+      "id": "2603.11088",
+      "title": "The Attack and Defense Landscape of Agentic AI: A Comprehensive Survey",
+      "license": null,
+      "canRedistribute": null
+    },
+    {
+      "id": "2603.21551",
+      "title": "AI In Cybersecurity Education -- Scalable Agentic CTF Design Principles and Educational Outcomes",
+      "license": null,
+      "canRedistribute": null
+    },
+    {
+      "id": "2603.22823",
+      "title": "Empirical Comparison of Agent Communication Protocols for Task Orchestration",
+      "license": null,
+      "canRedistribute": null
+    },
+    {
+      "id": "2603.26718",
+      "title": "Toward Evaluation Frameworks for Multi-Agent Scientific AI Systems",
+      "license": null,
+      "canRedistribute": null
+    },
+    {
+      "id": "2603.26997",
+      "title": "ROSClaw: An OpenClaw ROS 2 Framework for Agentic Robot Control and Interaction",
+      "license": null,
+      "canRedistribute": null
+    },
+    {
+      "id": "2603.27065",
+      "title": "Story2Proposal: A Scaffold for Structured Scientific Paper Writing",
+      "license": null,
+      "canRedistribute": null
+    },
+    {
+      "id": "2603.27104",
+      "title": "Autonomous Agent-Orchestrated Digital Twins (AADT): Leveraging the OpenClaw Framework for State Synchronization in Rare Genetic Disorders",
+      "license": null,
+      "canRedistribute": null
+    },
+    {
+      "id": "2603.27127",
+      "title": "Red-MIRROR: Agentic LLM-based Autonomous Penetration Testing with Reflective Verification and Knowledge-augmented Interaction",
+      "license": null,
+      "canRedistribute": null
+    },
+    {
+      "id": "2603.27150",
+      "title": "MediHive: A Decentralized Agent Collective for Medical Reasoning",
+      "license": null,
+      "canRedistribute": null
+    },
+    {
+      "id": "2603.27299",
+      "title": "From Inference Routing to Agent Orchestration: Declarative Policy Compilation with Cross-Layer Verification",
+      "license": null,
+      "canRedistribute": null
+    },
+    {
+      "id": "2603.27304",
+      "error": "arXiv metadata fetch failed for 2603.27304: 429"
+    },
+    {
+      "id": "2603.27404",
+      "error": "arXiv metadata fetch failed for 2603.27404: 429"
+    },
+    {
+      "id": "2603.27416",
+      "error": "arXiv metadata fetch failed for 2603.27416: 429"
+    },
+    {
+      "id": "2603.27703",
+      "error": "arXiv metadata fetch failed for 2603.27703: 429"
+    },
+    {
+      "id": "2603.28052",
+      "error": "arXiv metadata fetch failed for 2603.28052: 429"
+    },
+    {
+      "id": "2603.28281",
+      "error": "arXiv metadata fetch failed for 2603.28281: 429"
+    },
+    {
+      "id": "2603.28393",
+      "error": "arXiv metadata fetch failed for 2603.28393: 429"
+    },
+    {
+      "id": "2603.28716",
+      "error": "arXiv metadata fetch failed for 2603.28716: 429"
+    },
+    {
+      "id": "2603.28807",
+      "error": "arXiv metadata fetch failed for 2603.28807: 429"
+    },
+    {
+      "id": "2603.28900",
+      "error": "arXiv metadata fetch failed for 2603.28900: 429"
+    },
+    {
+      "id": "2603.28959",
+      "error": "arXiv metadata fetch failed for 2603.28959: 429"
+    },
+    {
+      "id": "2603.28986",
+      "error": "arXiv metadata fetch failed for 2603.28986: 429"
+    },
+    {
+      "id": "2603.29247",
+      "error": "arXiv metadata fetch failed for 2603.29247: 429"
+    },
+    {
+      "id": "2603.29426",
+      "error": "arXiv metadata fetch failed for 2603.29426: 429"
+    },
+    {
+      "id": "2603.29590",
+      "error": "arXiv metadata fetch failed for 2603.29590: 429"
+    },
+    {
+      "id": "2603.29632",
+      "error": "arXiv metadata fetch failed for 2603.29632: 429"
+    },
+    {
+      "id": "2604.00085",
+      "error": "arXiv metadata fetch failed for 2604.00085: 429"
+    },
+    {
+      "id": "2604.00131",
+      "error": "arXiv metadata fetch failed for 2604.00131: 429"
+    },
+    {
+      "id": "2604.00187",
+      "error": "arXiv metadata fetch failed for 2604.00187: 429"
+    },
+    {
+      "id": "2604.00200",
+      "error": "arXiv metadata fetch failed for 2604.00200: 429"
+    },
+    {
+      "id": "2604.00344",
+      "error": "arXiv metadata fetch failed for 2604.00344: 429"
+    },
+    {
+      "id": "2604.00429",
+      "error": "arXiv metadata fetch failed for 2604.00429: 429"
+    },
+    {
+      "id": "2604.00433",
+      "error": "arXiv metadata fetch failed for 2604.00433: 429"
+    },
+    {
+      "id": "2604.00442",
+      "error": "arXiv metadata fetch failed for 2604.00442: 429"
+    },
+    {
+      "id": "2604.00594",
+      "error": "arXiv metadata fetch failed for 2604.00594: 429"
+    },
+    {
+      "id": "2604.00694",
+      "error": "arXiv metadata fetch failed for 2604.00694: 429"
+    },
+    {
+      "id": "2604.00835",
+      "error": "arXiv metadata fetch failed for 2604.00835: 429"
+    },
+    {
+      "id": "2604.01020",
+      "error": "arXiv metadata fetch failed for 2604.01020: 429"
+    },
+    {
+      "id": "2604.01221",
+      "error": "arXiv metadata fetch failed for 2604.01221: 429"
+    },
+    {
+      "id": "2604.01354",
+      "error": "arXiv metadata fetch failed for 2604.01354: 429"
+    },
+    {
+      "id": "2604.01437",
+      "error": "arXiv metadata fetch failed for 2604.01437: 429"
+    },
+    {
+      "id": "2604.01438",
+      "error": "arXiv metadata fetch failed for 2604.01438: 429"
+    },
+    {
+      "id": "2604.01487",
+      "error": "arXiv metadata fetch failed for 2604.01487: 429"
+    },
+    {
+      "id": "2604.01560",
+      "error": "arXiv metadata fetch failed for 2604.01560: 429"
+    },
+    {
+      "id": "2604.01787",
+      "error": "arXiv metadata fetch failed for 2604.01787: 429"
+    },
+    {
+      "id": "2604.02006",
+      "error": "arXiv metadata fetch failed for 2604.02006: 429"
+    },
+    {
+      "id": "2604.02007",
+      "error": "arXiv metadata fetch failed for 2604.02007: 429"
+    },
+    {
+      "id": "2604.02023",
+      "error": "arXiv metadata fetch failed for 2604.02023: 429"
+    },
+    {
+      "id": "2604.02211",
+      "error": "arXiv metadata fetch failed for 2604.02211: 429"
+    },
+    {
+      "id": "2604.02334",
+      "title": "Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web",
+      "license": null,
+      "canRedistribute": null
+    },
+    {
+      "id": "2604.02460",
+      "error": "arXiv metadata fetch failed for 2604.02460: 429"
+    },
+    {
+      "id": "2604.02507",
+      "error": "arXiv metadata fetch failed for 2604.02507: 429"
+    },
+    {
+      "id": "2604.02647",
+      "error": "arXiv metadata fetch failed for 2604.02647: 429"
+    },
+    {
+      "id": "2604.02652",
+      "error": "arXiv metadata fetch failed for 2604.02652: 429"
+    },
+    {
+      "id": "2604.02686",
+      "error": "arXiv metadata fetch failed for 2604.02686: 429"
+    },
+    {
+      "id": "2604.02721",
+      "error": "arXiv metadata fetch failed for 2604.02721: 429"
+    },
+    {
+      "id": "2604.02728",
+      "error": "arXiv metadata fetch failed for 2604.02728: 429"
+    },
+    {
+      "id": "2604.02947",
+      "error": "arXiv metadata fetch failed for 2604.02947: 429"
+    },
+    {
+      "id": "2604.03044",
+      "error": "arXiv metadata fetch failed for 2604.03044: 429"
+    },
+    {
+      "id": "2604.03131",
+      "error": "arXiv metadata fetch failed for 2604.03131: 429"
+    },
+    {
+      "id": "2604.03179",
+      "error": "arXiv metadata fetch failed for 2604.03179: 429"
+    },
+    {
+      "id": "2604.10290",
+      "error": "arXiv metadata fetch failed for 2604.10290: 429"
+    },
+    {
+      "id": "2604.18234",
+      "error": "arXiv metadata fetch failed for 2604.18234: 429"
+    },
+    {
+      "id": "2604.18789",
+      "error": "arXiv metadata fetch failed for 2604.18789: 429"
+    },
+    {
+      "id": "2604.19540",
+      "error": "arXiv metadata fetch failed for 2604.19540: 429"
+    },
+    {
+      "id": "2605.10912",
+      "error": "arXiv metadata fetch failed for 2605.10912: 429"
+    },
+    {
+      "id": "2605.12239",
+      "error": "arXiv metadata fetch failed for 2605.12239: 429"
+    },
+    {
+      "id": "2605.12481",
+      "title": "ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents",
+      "license": null,
+      "canRedistribute": null
+    },
+    {
+      "id": "2605.12493",
+      "error": "arXiv metadata fetch failed for 2605.12493: 429"
+    },
+    {
+      "id": "2605.12497",
+      "error": "arXiv metadata fetch failed for 2605.12497: 429"
+    },
+    {
+      "id": "2605.13357",
+      "error": "arXiv metadata fetch failed for 2605.13357: 429"
+    },
+    {
+      "id": "2605.13762",
+      "error": "arXiv metadata fetch failed for 2605.13762: 429"
+    },
+    {
+      "id": "2605.14119",
+      "error": "arXiv metadata fetch failed for 2605.14119: 429"
+    },
+    {
+      "id": "2605.14271",
+      "error": "arXiv metadata fetch failed for 2605.14271: 429"
+    },
+    {
+      "id": "2605.14771",
+      "error": "arXiv metadata fetch failed for 2605.14771: 429"
+    },
+    {
+      "id": "2605.14851",
+      "error": "arXiv metadata fetch failed for 2605.14851: 429"
+    },
+    {
+      "id": "2605.14865",
+      "error": "arXiv metadata fetch failed for 2605.14865: 429"
+    },
+    {
+      "id": "2605.14879",
+      "error": "arXiv metadata fetch failed for 2605.14879: 429"
+    },
+    {
+      "id": "2605.14892",
+      "error": "arXiv metadata fetch failed for 2605.14892: 429"
+    },
+    {
+      "id": "2605.14912",
+      "error": "arXiv metadata fetch failed for 2605.14912: 429"
+    },
+    {
+      "id": "2605.14995",
+      "error": "arXiv metadata fetch failed for 2605.14995: 429"
+    },
+    {
+      "id": "2605.15015",
+      "error": "arXiv metadata fetch failed for 2605.15015: 429"
+    },
+    {
+      "id": "2605.15028",
+      "error": "arXiv metadata fetch failed for 2605.15028: 429"
+    },
+    {
+      "id": "2605.15040",
+      "title": "Orchard: An Open-Source Agentic Modeling Framework",
+      "license": null,
+      "canRedistribute": null
+    },
+    {
+      "id": "2605.15041",
+      "title": "Case-Based Calibration of Adaptive Reasoning and Execution for LLM Tool Use",
+      "license": null,
+      "canRedistribute": null
+    },
+    {
+      "id": "2605.15100",
+      "title": "Dual-Dimensional Consistency: Balancing Budget and Quality in Adaptive Inference-Time Scaling",
+      "license": null,
+      "canRedistribute": null
+    },
+    {
+      "id": "2605.15109",
+      "error": "arXiv metadata fetch failed for 2605.15109: 429"
+    },
+    {
+      "id": "2605.15132",
+      "error": "arXiv metadata fetch failed for 2605.15132: 429"
+    },
+    {
+      "id": "2605.15177",
+      "title": "OpenDeepThink: Parallel Reasoning via Bradley-Terry Aggregation",
+      "license": null,
+      "canRedistribute": null
+    },
+    {
+      "id": "2605.15184",
+      "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
+      "license": null,
+      "canRedistribute": null
+    },
+    {
+      "id": "2605.15472",
+      "error": "arXiv metadata fetch failed for 2605.15472: 429"
+    },
+    {
+      "id": "2605.15697",
+      "error": "arXiv metadata fetch failed for 2605.15697: 429"
+    },
+    {
+      "id": "2605.15799",
+      "error": "arXiv metadata fetch failed for 2605.15799: 429"
+    },
+    {
+      "id": "2605.16097",
+      "error": "arXiv metadata fetch failed for 2605.16097: 429"
+    },
+    {
+      "id": "2605.16143",
+      "error": "arXiv metadata fetch failed for 2605.16143: 429"
+    },
+    {
+      "id": "2605.16153",
+      "error": "arXiv metadata fetch failed for 2605.16153: 429"
+    },
+    {
+      "id": "2605.16205",
+      "error": "arXiv metadata fetch failed for 2605.16205: 429"
+    },
+    {
+      "id": "2605.16207",
+      "error": "arXiv metadata fetch failed for 2605.16207: 429"
+    },
+    {
+      "id": "2605.16215",
+      "error": "arXiv metadata fetch failed for 2605.16215: 429"
+    },
+    {
+      "id": "2605.16233",
+      "error": "arXiv metadata fetch failed for 2605.16233: 429"
+    }
+  ]
+}
