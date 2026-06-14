@@ -53,6 +53,7 @@ The first seed focuses on research already covered by Remnant Research and Reven
 - multi-agent systems
 - safety, privacy, and alignment
 - OpenClaw/plugin-oriented agent runtimes
+- recursive self-improving agents for Revenants
 
 ## Initial Seed Status
 
